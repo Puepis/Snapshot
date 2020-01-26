@@ -1,6 +1,6 @@
-# snapshot
+# Snapshot
 
-An application that provides the user with a snapshot of the world every morning
+An application that provides the user with a snapshot of the world every morning.
 
 ## Getting Started
 
